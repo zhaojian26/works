@@ -1,32 +1,16 @@
-## Welcome to GitHub Pages
+## Zhao Jian
 
-You can use the [editor on GitHub](https://github.com/zhaojian26/works/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+When we talk about sound, we are talking about time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Little Rose**
 
-### Markdown
+_Year: 2022,_
+_Director: Chen NingXin (YaYa)_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> At the summer end of 2021, I met director YaYa in Beijing. Afterward, we both moved to Shanghai. We started the sound production about a half year later when the Omicron crushed the most decent city in China. Fortunately, we met again before the city locked down. She showed me her previous films and shared the funny stories that happened during the shooting. I was amazed by the richness of the work she filmed. Each one is so unique but you still clearly tell that they are all by the same hand. It was a mystery journey for me to feel the little girl’s growing mind. And it became a mellow recovery while I was suffering from the city lockdown. 
 
-```markdown
-Syntax highlighted code block
+![testpic](https://user-images.githubusercontent.com/52708739/164909944-54c7a8c3-c1ff-42cd-998f-91ad4b83f96e.jpg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
