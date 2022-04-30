@@ -1,14 +1,24 @@
-<article class="post">
-    <header>
-        <a href="{{ include.post.url | prepend: site.baseurl }}">
-            <h1 class="post-title">{{ include.post.title }}</h1>
-        </a>
-        <time datetime="{{ include.post.date | date_to_xmlschema }}" class="post-date">{{ include.post.date | date: "%Y" }}</time>
-    <!-- </header>
-    <div class="post-body">
-        {% if include.post.location %}<a href="https://www.google.com/maps/search/{{ include.post.location }}" target="_blank" class="post-body-location">{{ include.post.location }}</a><span class="post-body-location-divider">—</span>{% endif %}{{ include.content }}
+<div class="content" id="home">
+  <div id="sidebar-button">
+    <img src="/works/images/sidebar-button.png">
+  </div>
+  <div id="post-info">
+    <div id="cover-photo-container">
+      <img id="cover-photo" src="/works/images/{{ page.cover }}">
     </div>
-    <footer class="post-footer">
-        {% if include.post.location %}<a href="https://www.google.com/maps/search/{{ include.post.location }}" target="_blank" class="post-footer-location">{{ include.post.location }}</a>{% endif %}  -->
-    </footer>
-</article>
+    <div id="info-container">
+      <h1 id="title">{{ page.title }}</h1>
+      <span id="date">{{ page.date | date_to_string }}</span>
+    </div>
+  </div>
+
+  <div class="post">
+    {{ content }}
+  </div>
+  <div class="colophon">
+    <p>
+      <span id="pub-date">Published on {{ page.date | date_to_string }}</span> <span class="separator">&bull;</span>
+      <span id="social">Find me on <a href="">Twitter</a>!</span>
+    </p>
+  </div>
+</div>
