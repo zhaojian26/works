@@ -1,44 +1,59 @@
-Galileo Theme
----
+flex
+====
 
-Another damned theme for Jekyll.
+Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
 
-![The Galileo Theme](https://cloud.githubusercontent.com/assets/185649/11737785/b998bd0c-a002-11e5-9c93-0ac83917f32d.png)
+The theme is based on the website [The Development](http://thedevelopment.co).
 
-Landing somewhere between a scholarly publication and an adventurers notebook, the Galileo theme presents your words & photographs in a handsome, agreeable manner.
+View a demo website [here](http://the-development.github.io/flex/).
 
-It is well behaved on both mobile & desktop and radically minimal in its footprint. Charged and ready for deployment to Github Pages.
+Installation
+===
+To use this theme, you would do so like any other Jekyll setup:
 
-### In the wild
+1. Install Jekyll: `gem install jekyll`
+2. Fork this repository to your machine
+3. `cd` to the forked directory and run `jekyll serve --watch`
+4. Celebrate and dance.
 
-Demo [here](http://travelog.io/galileo-theme/). I'm so damned fond of this theme that I also use it on [my own blog](http://travelog.io/).
+Contributions
+===
 
-### Installation
+In general, there are no strict rules for contributing, only that your code is clean and well structured.
 
-- Install Jekyll: `gem install jekyll`
-- [Fork this repository](https://github.com/rowanoulton/galileo-theme/fork)
-- Clone it: `git clone https://github.com/YOUR-USER/galileo-theme`
-- Run the jekyll server: `jekyll serve -w`
+For bugs:
+- To merge a fix, you can simply open a pull request.
+- To report one that is not yet fixed, open an issue.
 
-Observe the results at <http://localhost:4000>.
+Feature requests:
+- **Always** open an issue first before implementing and proposing a new feature. This is only so I can make sure the theme doesn't become bloated with too many features. This way, I can determine if an idea is something that makes sense for the theme's design.
 
-### Customisation
+If in doubt, you can always ask me on Twitter: [@jeffxmn](https://twitter.com/jeffxmn)
 
-Make changes in [_config.yml](https://github.com/rowanoulton/galileo-theme/blob/master/_config.yml), ye damned heathens.
+License
+===
 
-#### A note about fonts
-
-I've employed [Typekit](https://typekit.com/) to load both "[Adobe Caslon Pro](https://typekit.com/fonts/adobe-caslon-pro)" & "[LTC Bodoni 175](https://typekit.com/fonts/ltc-bodoni-175)". To make use of these with your own Typekit account, publish a kit and enter the ID into the Jekyll config.
-
-This _is_ optional. If you don't want to use Typekit, well _fine_, just leave the Typekit Kit ID blank. You'll need to elect and specify substitute fonts [here](https://github.com/rowanoulton/galileo-theme/blob/master/css/screen.scss#L7) and [here](https://github.com/rowanoulton/galileo-theme/blob/master/css/screen.scss#L8).
-
-### Deployment
-
-This theme is built to be deployed easily to [GitHub Pages](https://pages.github.com/).
+Flex is licensed under the MIT license:
 
 
-### License
+The MIT License (MIT)
 
-[MIT](https://github.com/rowanoulton/galileo-theme/blob/master/LICENSE).
+Copyright (c) 2013-2014 Jeff Martin
 
-Do whatever you damn well please with it. I'm always glad to hear what folks are doing with it though — let me know on [Twitter](https://twitter.com/rowanoulton).
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
