@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
-categories: facts
+title: "Little Rose"
+author: "Jian"
+categories: filmstories
 tags: [sample]
-image: cuba-2.jpg
+image: littlerose.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+At the summer end of 2021, I met director YaYa in Beijing. Afterward, we both moved to Shanghai. We started the sound production about a half year later when the Omicron crushed the most decent city in China. Fortunately, we met again before the city locked down. She showed me her previous films and shared the funny stories that happened during the shooting. I was amazed by the richness of the work she filmed. Each one is so unique but you still clearly tell that they are all by the same hand. Little Rose was a mystery journey for me to feel the little girl’s growing mind. And it became a mellow recovery while I was suffering from the city lockdown. 
