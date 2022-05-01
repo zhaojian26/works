@@ -1,6 +1,6 @@
 @media (max-width:750px) {
   #cover-photo {
-    max-width: 90%;
+    max-width: 100%;
   }
 
   .header {
@@ -9,6 +9,7 @@
 
   .posts {
     font-size: 0.9em;
+    max-width: 50%;
   }
 
   .footer {
