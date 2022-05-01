@@ -17,7 +17,7 @@ html, body {
 
 body {
   color: #4a4a4a;
-  background-color: #faf2ddf1;
+  background-color: #fffbeff5;
   font-family: 'Asar', serif;
   font-weight: 400;
   font-size: 0.85em;
@@ -31,7 +31,7 @@ a {
 }
 
 a img {
-  outline: none;
+  outline:#000;
   max-width: fit-content;
 }
 
