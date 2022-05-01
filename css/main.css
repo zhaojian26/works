@@ -177,10 +177,10 @@ a:hover {
 /* post body */
 .post p {
   font-family: 'Asar', serif;
-  font-size: 14px;
+  font-size: 18px;
   margin-bottom: 1.45em;
   text-align: justify;
-  max-width: fit-content;
+  border-image-width: 5px;
 }
 
 .post ul, .post ol {
