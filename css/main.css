@@ -174,12 +174,13 @@ a:hover {
   padding: 0 .4em;
 }
 
+/* post body */
 .post p {
   font-family: 'Asar', serif;
-  font-size: 16px;
+  font-size: 14px;
   margin-bottom: 1.45em;
   text-align: justify;
-  image-resolution: fit-content;
+  max-width: fit-content;
 }
 
 .post ul, .post ol {
