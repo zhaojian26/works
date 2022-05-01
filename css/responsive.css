@@ -1,6 +1,6 @@
 @media (max-width:750px) {
   #cover-photo {
-    max-width: 750px;
+    max-width: 90%;
   }
 
   .header {
@@ -50,7 +50,7 @@
 /**
  * iPhone width
  **/
-@media (max-width:720px) {
+@media (max-width:640px) {
   #logo {
     max-width: 75px;
   }
