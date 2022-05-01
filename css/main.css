@@ -176,9 +176,10 @@ a:hover {
 
 .post p {
   font-family: 'Asar', serif;
-  font-size: 17px;
+  font-size: 8px;
   margin-bottom: 1.45em;
   text-align: justify;
+  /*image-resolution: 720px;*/
 }
 
 .post ul, .post ol {
