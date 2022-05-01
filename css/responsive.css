@@ -50,13 +50,13 @@
 /**
  * iPhone width
  **/
-@media (max-width:640px) {
+@media (max-width:720px) {
   #logo {
     max-width: 75px;
   }
 
   #cover-photo-container {
-    text-align: left;
+    text-align: center;
   }
 
   #title {
