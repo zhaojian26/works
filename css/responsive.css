@@ -1,6 +1,6 @@
 @media (max-width:750px) {
   #cover-photo {
-    max-width: 100%;
+    max-width: 95%;
   }
 
   .header {
@@ -9,7 +9,6 @@
 
   .posts {
     font-size: 0.9em;
-    max-width: 50%;
   }
 
   .footer {
@@ -75,6 +74,7 @@
   .content {
     z-index: 1;
     padding-right: 2em;
+    resize: horizontal;
   }
 
   #sidebar-button {
