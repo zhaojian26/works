@@ -180,7 +180,7 @@ a:hover {
   font-size: 18px;
   margin-bottom: 1.45em;
   text-align: justify;
-  border-image-width: 5px;
+  width: min-content;
 }
 
 .post ul, .post ol {
