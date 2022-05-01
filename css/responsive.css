@@ -1,6 +1,6 @@
-@media (max-width:1309px) {
+@media (max-width:750px) {
   #cover-photo {
-    max-width: 50%;
+    max-width: 90%;
   }
 
   .header {
@@ -16,7 +16,7 @@
   }
 }
 
-@media (max-width:1090px) {
+@media (max-width:750px) {
   #logo {
     max-width: 100px;
   }
@@ -89,5 +89,5 @@
 /*****************************************************************************/
 
 .slideIn {
-  margin-left: 0%;
+  margin-left: 10%;
 }
