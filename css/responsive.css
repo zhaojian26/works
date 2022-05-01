@@ -50,9 +50,13 @@
 /**
  * iPhone width
  **/
-@media (max-width:360px) {
+@media (max-width:428px) {
   #logo {
     max-width: 75px;
+  }
+
+  #img {
+    max-width: 420px;
   }
 
   #cover-photo-container {
@@ -65,9 +69,9 @@
 
   .sidebar {
     transition: 1s;
-    margin-left: -100%;
+    margin-left: -5%;
     z-index: 3;
-    width: 80%;
+    width: 50%;
     padding-left: 1.75em;
   }
 
